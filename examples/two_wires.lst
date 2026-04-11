@@ -1,0 +1,5 @@
+* Two parallel M1 wires, 0.1um apart, in SiO2 (eps=3.9)
+*
+* conductor_file  outperm   x_off  y_off  z_off
+C wire.txt        3.9       0.0    0.0    0.0
+C wire.txt        3.9       0.0    0.2    0.0
